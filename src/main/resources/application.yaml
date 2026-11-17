@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: backend
+
+divine-pride:
+  api-key: ${DIVINE_PRIDE_API_KEY}
